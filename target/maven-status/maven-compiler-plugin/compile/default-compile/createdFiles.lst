@@ -1,2 +1,10 @@
+com\dataaccess\webservicesserver\NumberToWords.class
+com\dataaccess\webservicesserver\ObjectFactory.class
+com\dataaccess\webservicesserver\NumberToDollars.class
+com\dataaccess\webservicesserver\NumberToDollarsResponse.class
 ru\test\TestBean.class
 ru\test\TestServlet.class
+com\dataaccess\webservicesserver\NumberToWordsResponse.class
+com\dataaccess\webservicesserver\NumberConversion.class
+com\dataaccess\webservicesserver\NumberConversionSoapType.class
+com\dataaccess\webservicesserver\package-info.class
