@@ -2,11 +2,10 @@ package ru.test;
 
 import com.dataaccess.webservicesserver.NumberConversion;
 import com.dataaccess.webservicesserver.NumberConversionSoapType;
-import jakarta.ejb.Stateless;
 
 import java.math.BigDecimal;
 
-@Stateless(name = "TestEJB")
+
 public class TestBean {
     public TestBean() {
     }
